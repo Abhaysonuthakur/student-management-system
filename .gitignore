@@ -1,0 +1,4 @@
+target/
+
+# Local database credentials - never commit this file.
+db.properties
